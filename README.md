@@ -1,4 +1,8 @@
 # random-gif-split
+
+ <a href="https://badges.pufler.dev/visits/jeffersonlicet/random-gif-split"><img src="https://badges.pufler.dev/visits/jeffersonlicet/random-gif-split"></a>
+
+
 #### Pick a random frame from an animated gif
 Usage:
 `import randomGifSplit from 'random-gif-split';`
